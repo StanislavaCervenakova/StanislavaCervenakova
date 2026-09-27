@@ -15,10 +15,10 @@ I'm a **Software Developer** with a Bachelor's degree in Applied Informatics, sp
 
 ### 🛠 Tech & Tools
 
--- **Frontend** | TypeScript, JavaScript, React, Redux, Angular, AngularJS, Vue, RxJS 
--- **Styling & UI** | HTML, SCSS, SASS, ANT Design, PrimeNG |
--- **Backend & Databases** | PostgreSQL, MSSQL, C, Java, Python |
--- **DevOps & Tools** | GitHub Actions, Git, Linux, Docker, Docker/Kratos/Gotenberg |
+- **Frontend** | TypeScript, JavaScript, React, Redux, Angular, AngularJS, Vue, RxJS 
+- **Styling & UI** | HTML, SCSS, SASS, ANT Design, PrimeNG |
+- **Backend & Databases** | PostgreSQL, MSSQL, C, Java, Python |
+- **DevOps & Tools** | GitHub Actions, Git, Linux, Docker, Docker/Kratos/Gotenberg |
 
 ---
 
